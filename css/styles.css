@@ -1,0 +1,22 @@
+body {
+  background-color: tan;
+}
+
+h1 {
+  font-family: monospace;
+}
+
+.main-header {
+  border-bottom: 1px black solid;
+  text-align: center;
+  font-size: 200px;
+}
+
+#emphasis-content {
+  color: indianred;
+  text-transform: uppercase;
+}
+
+#emphasis-content:hover {
+  color: red;
+}
